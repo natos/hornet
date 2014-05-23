@@ -73,6 +73,6 @@ app.get('/fake/:code', function(req, res) {
     }
 });
 
-app.listen(process.env.HORNET_PORT || 3000, function() {
-    console.log('Hornet started http://localhost:' + (process.env.HORNET_PORT || 3000));
+app.listen(process.env.PORT || 3000, function() {
+    console.log('Hornet started http://localhost:' + (process.env.PORT || 3000));
 });
