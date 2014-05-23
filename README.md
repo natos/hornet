@@ -17,4 +17,4 @@ run
 use 
 ---
 
-    htt://localhost:3000/fake/404
+    http://localhost:3000/fake/404
