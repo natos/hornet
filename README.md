@@ -17,4 +17,10 @@ run
 use 
 ---
 
+To get a fake 404
+
     http://localhost:3000/fake/404
+
+To get a fake 500
+
+    http://localhost:3000/fake/500
