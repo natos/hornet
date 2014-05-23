@@ -1,3 +1,6 @@
-Fake http server
+hornet
+======
 
-I builded this to test a error handling plugin
+Just a fake http server
+
+I builded this to test a error handling plugin.
